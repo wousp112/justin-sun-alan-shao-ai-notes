@@ -9,6 +9,7 @@ Original video: [YouTube](https://www.youtube.com/watch?v=0Z-vhBvBmUY) · Host: 
 | Use | File |
 | --- | --- |
 | Get a plan from your AI | [AGENT.md](AGENT.md) — copy it to Claude, ChatGPT, or Codex, then describe your situation. Your AI will reply in your language. |
+| Follow step-by-step guides | [guides/](guides/) — 15 hands-on guides, one per idea, with tool picks and a prompt for your agent (Chinese) |
 | Read the key ideas | [精华.md](精华.md) — 15 ideas with video timestamps (Chinese) |
 | Read the full interview | [全文.md](全文.md) — full timestamped transcript (Chinese) |
 
