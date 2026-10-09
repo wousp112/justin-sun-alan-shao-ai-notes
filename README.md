@@ -1,49 +1,35 @@
-# Justin Sun × Alan Shao: AI Interview Notes
+# 孙宇晨 × 邵艾伦：AI 时代怎么抓机会
 
-[中文](README.zh.md)
+[English](README.en.md)
 
-These notes turn the four-hour conversation between Justin Sun and [Alan Shao (邵艾伦)](https://x.com/AlanShao111) about AI, work, and learning into a decision you can test with your own agent.
+4 小时 22 分钟的对谈，全文 + 精华 + 一段能直接丢给 AI 的 prompt。
 
-## Quick start
+原视频：[YouTube](https://www.youtube.com/watch?v=0Z-vhBvBmUY) · 主持人：[邵艾伦 @AlanShao111](https://x.com/AlanShao111)
 
-1. Open [AGENT.md](AGENT.md) and copy the whole file.
-2. Paste it into a new Claude, ChatGPT, Codex, or other agent chat. Add a career, learning, or business question.
-3. Get a comparison of your options, a small test you can run, and the evidence that would change the recommendation.
+## 三种用法
 
-**[Copy this to your agent → AGENT.md](AGENT.md)**  
-On GitHub, use **Copy raw file**, or select **Raw** and copy the text. The prompt includes its own source brief. You do not need to upload other files.
+| 用法 | 文件 | 说明 |
+| --- | --- | --- |
+| **让 AI 帮你规划** | [AGENT.md](AGENT.md) | 复制给你的 AI，说说你的情况 |
+| **5 分钟看重点** | [精华.md](精华.md) | 15 个核心观点，带视频时间点 |
+| **看完整原文** | [全文.md](全文.md) | 逐字稿，带时间戳 |
 
-## Who this is for
+## 让 AI 帮你规划
 
-Use this if you want to apply ideas from the interview to a real choice: what to learn, which AI workflow to build, or which opportunity to explore.
+1. 打开 [AGENT.md](AGENT.md)，点右上角复制按钮。
+2. 粘贴给 Claude、ChatGPT、Codex、Kimi，随便哪个。
+3. 接着说你的情况，比如：
 
-The source is Justin Sun’s conversation with **Alan Shao (邵艾伦)**, *对话孙宇晨：年轻人如何抓住AI时代的机会？* (“A conversation with Justin Sun: how can young people seize opportunities in the AI era?”). The interview runs for 4 hours and 22 minutes.
+> 我做财务，想转 AI 产品，每周只有 5 小时，不想裸辞。
 
-The notes cover reusable context for AI tools, learning before committing, choosing opportunities, and turning experience into useful work. They also preserve Sun’s strong claims and the points where he leaves a question open.
+AI 会按访谈里的思路，给你几条路的对比，再给一个这周就能动手的小实验。
 
-## Example
+想让 AI 掌握所有细节，就把 [全文.md](全文.md) 一起丢进去。
 
-After pasting AGENT.md, add:
+## 关于全文
 
-> I work in finance and want to explore AI product work. I have five hours a week and do not want to quit my job yet. Compare the paths I could test, then suggest a first step.
+用 Gemini 转录，全程带时间戳，抽样对照过原音频。个别人名和词可能有误，引用原话前回看视频。
 
-Your agent should compare the paths against your constraints, propose a concrete output, and explain what result would justify continuing or changing direction. Its plan is an application of the notes, not a recommendation made in the interview.
+## 授权
 
-## What's inside
-
-| File | Use |
-| --- | --- |
-| [AGENT.md](AGENT.md) | A complete English prompt with an embedded source brief. Copy it into your agent. |
-| [NOTES.md](NOTES.md) | English reading notes on the main themes, with links back to the interview. |
-| [TRANSCRIPT.zh.md](TRANSCRIPT.zh.md) | The full Chinese transcript with timestamps. Feed it to your agent if you want every detail. |
-| [INTERVIEW.zh.md](INTERVIEW.zh.md) | A Chinese, topic-organized abridgment of the conversation. |
-| [README.zh.md](README.zh.md) | The Chinese quick start. |
-| [LICENSE](LICENSE) | The license for the notes and prompt, and the separate rights of the interview creators. |
-
-## Source and reuse
-
-Watch the [original interview](https://www.youtube.com/watch?v=0Z-vhBvBmUY). The host’s [announcement](https://x.com/AlanShao111/status/2108407966236020814) identifies the participants and links to this video.
-
-TRANSCRIPT.zh.md is a full machine transcript, spot-checked against the audio; check names and quotes against the video before citing them. The other files are edited notes. Speaker opinions and forecasts are attributed to the interview. Current facts need their own evidence.
-
-**NOTES.md and AGENT.md are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).** Credit *Justin Sun AI Notes*, link to this repository, and indicate changes. Rights in the underlying interview remain with its original rights holders. This repository does not grant a license to the interview or imply their endorsement. See [LICENSE](LICENSE).
+精华和 AGENT.md 随便用，注明出处就行。访谈内容版权归原作者。详见 [LICENSE](LICENSE)。
