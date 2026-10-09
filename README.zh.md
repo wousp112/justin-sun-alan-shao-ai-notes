@@ -1,8 +1,8 @@
-# Justin Sun AI Notes
+# 孙宇晨 × 邵艾伦：AI 访谈笔记
 
 [English](README.md)
 
-把一场四小时的 AI、工作与学习访谈，变成你能和自己的 Agent 一起检验的具体选择。
+这份笔记把孙宇晨与[邵艾伦（Alan Shao）](https://x.com/AlanShao111)的四小时对谈，整理成你能和自己的 Agent 一起检验的具体选择。
 
 ## 快速开始
 

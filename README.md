@@ -1,8 +1,8 @@
-# Justin Sun AI Notes
+# Justin Sun × Alan Shao: AI Interview Notes
 
 [中文](README.zh.md)
 
-Turn a four-hour conversation about AI, work, and learning into a decision you can test with your own agent.
+These notes turn the four-hour conversation between Justin Sun and [Alan Shao (邵艾伦)](https://x.com/AlanShao111) about AI, work, and learning into a decision you can test with your own agent.
 
 ## Quick start
 
