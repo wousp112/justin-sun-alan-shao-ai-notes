@@ -35,6 +35,7 @@ Your agent should compare the paths against your constraints, propose a concrete
 | --- | --- |
 | [AGENT.md](AGENT.md) | A complete English prompt with an embedded source brief. Copy it into your agent. |
 | [NOTES.md](NOTES.md) | English reading notes on the main themes, with links back to the interview. |
+| [TRANSCRIPT.zh.md](TRANSCRIPT.zh.md) | The full Chinese transcript with timestamps. Feed it to your agent if you want every detail. |
 | [INTERVIEW.zh.md](INTERVIEW.zh.md) | A Chinese, topic-organized abridgment of the conversation. |
 | [README.zh.md](README.zh.md) | The Chinese quick start. |
 | [LICENSE](LICENSE) | The license for the notes and prompt, and the separate rights of the interview creators. |
@@ -43,6 +44,6 @@ Your agent should compare the paths against your constraints, propose a concrete
 
 Watch the [original interview](https://www.youtube.com/watch?v=0Z-vhBvBmUY). The host’s [announcement](https://x.com/AlanShao111/status/2108407966236020814) identifies the participants and links to this video.
 
-These are edited notes and an abridgment, not a verbatim transcript. Speaker opinions and forecasts are attributed to the interview. Current facts need their own evidence.
+TRANSCRIPT.zh.md is a full machine transcript, spot-checked against the audio; check names and quotes against the video before citing them. The other files are edited notes. Speaker opinions and forecasts are attributed to the interview. Current facts need their own evidence.
 
 **NOTES.md and AGENT.md are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).** Credit *Justin Sun AI Notes*, link to this repository, and indicate changes. Rights in the underlying interview remain with its original rights holders. This repository does not grant a license to the interview or imply their endorsement. See [LICENSE](LICENSE).

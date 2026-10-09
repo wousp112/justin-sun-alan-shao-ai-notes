@@ -35,6 +35,7 @@ Agent 应根据你的条件比较路径，提出一个具体产出，并说明�
 | --- | --- |
 | [AGENT.md](AGENT.md) | 内置访谈要点的英文提示词，可整份复制给 Agent。 |
 | [NOTES.md](NOTES.md) | 英文主题笔记，附原视频回看链接。 |
+| [TRANSCRIPT.zh.md](TRANSCRIPT.zh.md) | 完整中文逐字稿，带时间戳。想让 Agent 看全部细节就丢这个。 |
 | [INTERVIEW.zh.md](INTERVIEW.zh.md) | 按主题整理、删节后的中文访谈。 |
 | [README.md](README.md) | 英文使用入口。 |
 | [LICENSE](LICENSE) | 笔记与提示词的授权范围，以及访谈原作者的权利。 |
@@ -43,6 +44,6 @@ Agent 应根据你的条件比较路径，提出一个具体产出，并说明�
 
 观看[原访谈](https://www.youtube.com/watch?v=0Z-vhBvBmUY)。主持人的[发布帖](https://x.com/AlanShao111/status/2108407966236020814)注明了双方姓名，并链接到这条视频。
 
-这里提供经整理的笔记和访谈节选，不是逐字稿。访谈中的观点和预测归说话人；涉及现状的事实需要另外核实。
+TRANSCRIPT.zh.md 是完整的机器逐字稿，经抽样核对；人名和原话引用前请对照视频。其余文件为整理后的笔记。访谈中的观点和预测归说话人；涉及现状的事实需要另外核实。
 
 **NOTES.md 和 AGENT.md 采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权。** 复用时注明 *Justin Sun AI Notes*，链接到本仓库，并说明改动。原访谈的权利归原权利人，本仓库不授予访谈内容的使用许可，也不代表原作者认可本项目。完整范围见 [LICENSE](LICENSE)。
