@@ -1,0 +1,42 @@
+License scope for Justin Sun AI Notes
+
+NOTES.md and AGENT.md
+---------------------
+The original reading notes and prompt in NOTES.md and AGENT.md are licensed
+under the Creative Commons Attribution 4.0 International Public License
+(CC BY 4.0).
+
+License summary: https://creativecommons.org/licenses/by/4.0/
+Full legal terms: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You may share and adapt these original contributions, including for commercial
+purposes, subject to the license terms. Give appropriate credit, link to the
+license, and indicate changes. Do not imply endorsement.
+
+Suggested attribution:
+"Adapted from Justin Sun AI Notes (NOTES.md / AGENT.md), CC BY 4.0."
+Include a link to the repository or source copy and describe your changes.
+
+Underlying interview and INTERVIEW.zh.md
+---------------------------------------
+The source interview is:
+Justin Sun and Alan Shao (邵艾伦),
+对话孙宇晨：年轻人如何抓住AI时代的机会？
+https://www.youtube.com/watch?v=0Z-vhBvBmUY
+
+Rights in the underlying interview remain with the original rights holders.
+INTERVIEW.zh.md is an edited, topic-organized abridgment of that interview.
+It is excluded from the CC BY 4.0 grant above. No license to the underlying
+interview content is granted by this repository.
+
+The presence of paraphrased source material in the notes or prompt does not
+transfer ownership of the underlying interview or grant rights that the
+repository contributors do not hold.
+
+Other files
+-----------
+README.md and README.zh.md are project documentation. They are not included
+in the CC BY 4.0 grant above. No additional reuse license is granted here.
+
+This project is not endorsed by the interview participants or the original
+rights holders.
